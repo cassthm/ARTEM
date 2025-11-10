@@ -3,7 +3,6 @@ Official repository for ARTEM (Agentic Retrieval with Temporal-Episodic Memory) 
 
 Codes and appendices will be released soon.
 
-**Accepted at AAAI 2026**
 
 
 
